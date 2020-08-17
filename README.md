@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/pnavaro?label=follow%20%40pnavaro%20on%20Twitter&style=flat-square)](https://twitter.com/pierrepo)
 
-I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/), France. 
+I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France. 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true)
