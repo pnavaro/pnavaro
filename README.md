@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Pierre Navaro, scientific computing engineer
+
+[![Twitter Badge](https://img.shields.io/twitter/follow/pnavaro?label=follow%20%40pnavaro%20on%20Twitter&style=flat-square)](https://twitter.com/pierrepo)
+
+I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/), France. 
+![github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true)
+
+
+## Projects
+
+### Vlasov code in Julia
+
+Have a look to the [website](https://juliavlasov.github.io/).
+
+### Non-parametric sequential Monte-Carlo methods
+
+[![NPSMC.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=plasma&show_owner=true)](https://github.com/npsmc/NPSMC.jl)
+
