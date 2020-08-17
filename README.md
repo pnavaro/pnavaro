@@ -26,7 +26,7 @@ I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France.
 
 ## Python courses
 
-[![Python for scienticific computing](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=python-notebooks.jl&show_owner=true)](https://pnavaro.github.io/python-notebooks)
+[![Python for scienticific computing](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=python-notebooks&show_owner=true)](https://pnavaro.github.io/python-notebooks)
 
 [![Python for Big Data](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=big-data&show_owner=true)](https://pnavaro.github.io/big-data)
 
