@@ -24,6 +24,14 @@ I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true)
 
+## Python courses
+
+[![Python for scienticific computing](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=python-notebooks.jl&show_owner=true)](https://pnavaro.github.io/python-notebooks)
+
+[![Python for Big Data](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=big-data&show_owner=true)](https://pnavaro.github.io/big-data)
+
+[![Python with Fortran](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=python-fortran&show_owner=true)](https://pnavaro.github.io/python-fortran)
+
 
 ## Projects
 
