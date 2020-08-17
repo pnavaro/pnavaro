@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 # Pierre Navaro, scientific computing engineer
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/pnavaro?label=follow%20%40pnavaro%20on%20Twitter&style=flat-square)](https://twitter.com/pierrepo)
 
 I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France. 
 
