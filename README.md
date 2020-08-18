@@ -34,9 +34,11 @@ I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France.
 
 ## Projects
 
-### Vlasov code in Julia
+### Vlasov codes in Julia
 
 Have a look to the [website](https://juliavlasov.github.io/).
+
+[![GEMPIC.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=GEMPIC.jl&show_owner=true)](https://github.com/juliavlasov/GEMPIC.jl)
 
 ### Non-parametric sequential Monte-Carlo methods
 
