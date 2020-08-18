@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-![Cover](https://github.com/pnavaro/pnavaro/blob/master/cover.jpg)
+![Cover](https://github.com/pnavaro/pnavaro/blob/master/0.jpeg)
 
 <!--
 **pnavaro/pnavaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
