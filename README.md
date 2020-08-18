@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Pierre Navaro, scientific computing engineer
 
 
-I am engineer at [IRMAR](https://irmar.univ-rennes1.fr/en), France. 
+I work at [IRMAR](https://irmar.univ-rennes1.fr/en), France. 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true)
