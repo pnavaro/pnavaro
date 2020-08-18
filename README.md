@@ -1,5 +1,7 @@
 ### Bonjour 👋
 
+![Cover](https://github.com/pnavaro/pnavaro/blob/master/cover.jpg)
+
 <!--
 **pnavaro/pnavaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
