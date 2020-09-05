@@ -24,6 +24,8 @@ I work at [IRMAR](https://irmar.univ-rennes1.fr/en), France.
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnavaro)
+
 
 ## Python courses
 
