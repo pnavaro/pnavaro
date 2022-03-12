@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 # Pierre Navaro, scientific computing engineer
 
 
-I work at [IRMAR](https://irmar.univ-rennes1.fr/en), France. 
+I work at [IRMAR](https://irmar.univ-rennes1.fr/en) in Rennes, France. 
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Fortran](https://img.shields.io/badge/-Fortran-734f96?&logo=Fortran)
+![Julia](https://img.shields.io/badge/-Julia-blueviolet?&logo=julia&logoColor=white)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pnavaro&show_icons=true&theme=tokyonight)
 
@@ -37,13 +44,11 @@ I work at [IRMAR](https://irmar.univ-rennes1.fr/en), France.
 
 ## Projects
 
-### Vlasov codes in Julia
-
-Have a look to the [website](https://juliavlasov.github.io/).
-
 [![GEMPIC.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=GEMPIC.jl&show_owner=true)](https://github.com/juliavlasov/GEMPIC.jl)
 
-### Non-parametric sequential Monte-Carlo methods
+[![VlasovSolvers.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=VlasovSolvers.jl&show_owner=true)](https://github.com/npsmc/AnalogDataAssimilation.jl)
 
-[![NPSMC.jl](https://github-readme-stats.vercel.app/api/pin/?username=npsmc&repo=NPSMC.jl&show_owner=true)](https://github.com/npsmc/NPSMC.jl)
+[![AnalogDataAssimilation.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=AnalogDataAssimilation.jl&show_owner=true)](https://github.com/npsmc/AnalogDataAssimilation.jl)
+
+
 
