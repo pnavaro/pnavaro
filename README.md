@@ -46,9 +46,15 @@ I work at [IRMAR](https://irmar.univ-rennes1.fr/en) in Rennes, France.
 
 [![GEMPIC.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=GEMPIC.jl&show_owner=true)](https://github.com/juliavlasov/GEMPIC.jl)
 
-[![VlasovSolvers.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=VlasovSolvers.jl&show_owner=true)](https://github.com/npsmc/AnalogDataAssimilation.jl)
+[![VlasovSolvers.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=VlasovSolvers.jl&show_owner=true)](https://github.com/juliavlasov/VlasovSolvers.jl)
 
-[![AnalogDataAssimilation.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=AnalogDataAssimilation.jl&show_owner=true)](https://github.com/npsmc/AnalogDataAssimilation.jl)
+[![AnalogDataAssimilation.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=AnalogDataAssimilation.jl&show_owner=true)](https://github.com/pnavaro/AnalogDataAssimilation.jl)
+
+[![HOODESolver.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=HOODESolver.jl&show_owner=true)](https://github.com/pnavaro/HOODESolver.jl)
+
+[![SemiLagrangian.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=SemiLagrangian.jl&show_owner=true)](https://github.com/JuliaVlasov/SemiLagrangian.jl)
+
+[![OTRecod](https://github-readme-stats.vercel.app/api/pin/?username=otrecoding&repo=OTRecod&show_owner=true)](https://github.com/otrecoding/OTrecod)
 
 
 
