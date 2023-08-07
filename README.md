@@ -44,6 +44,8 @@ I work at [IRMAR](https://irmar.univ-rennes1.fr/en) in Rennes, France.
 
 ## Projects
 
+[![GeometricClusterAnalysis.jl](https://github-readme-stats.vercel.app/api/pin/?username=pnavaro&repo=GeometricClusterAnalysis.jl&show_owner=true)](https://github.com/pnavaro/GeometricClusterAnalysis.jl)
+
 [![GEMPIC.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=GEMPIC.jl&show_owner=true)](https://github.com/juliavlasov/GEMPIC.jl)
 
 [![VlasovSolvers.jl](https://github-readme-stats.vercel.app/api/pin/?username=juliavlasov&repo=VlasovSolvers.jl&show_owner=true)](https://github.com/juliavlasov/VlasovSolvers.jl)
